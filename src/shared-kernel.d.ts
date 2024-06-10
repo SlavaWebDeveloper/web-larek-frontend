@@ -1,0 +1,11 @@
+type Email = string;
+type UniqueId = string;
+type DateTimeString = string;
+type PriceCents = number | null;
+type PhoneString = string;
+type AddressString = string;
+type TextString = string;
+type ImageUrlString = string;
+type TotalPriceNumber = number;
+type HasCart = true | false;
+type OrderPayment = 'card' | 'cash';
